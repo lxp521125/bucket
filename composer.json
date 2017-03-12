@@ -1,0 +1,16 @@
+{
+  "name": "XP/TikuBucket",
+  "description": "令牌验证",
+  "authors": [
+    {
+      "name": "xiaopeng",
+      "email": "xiaopeng.lei@gaodun.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"XP\\": "src/"}
+  },
+  "require": {
+    "php":">=5.3"
+  }
+}
